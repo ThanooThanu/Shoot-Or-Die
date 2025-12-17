@@ -137,13 +137,13 @@ std::vector<std::string> levelLayout = {
     "|...............|",
     "#-------D-------#",
     "|...............|",
-    "|BBBBBBBBBBBBBBB|",
+    "|B.B.B.B.B.B.B.B|",
     "|...............|",
     "|...............|",
-    "|BBBBBBBBBBBBBBB|",
+    "|.B.B.B.B.B.B.B.|",
     "|...............|",
     "|...............|",
-    "|BBBBBB.B.BBBBBB|",
+    "|B.BBBB.B.BBBB.B|",
     "|...............|",
     "#-------D-------#",
     "|...............|",
@@ -168,7 +168,7 @@ std::vector<std::string> levelLayout = {
     "|...............|",
     "|.B.B.B.|.B.B.B.|",
     "|.......|.......|",
-    "|BBBBBBBBBBBBBBB|",
+    "|B.B.B.B.B.B.B.B|",
     "|...............|",
     "|...B.......B...|",
     "|.......|.......|",
@@ -225,7 +225,7 @@ int main()
     Model barrelModel(FileSystem::getPath("resources/objects/Barrel/Barrels_OBJ.obj"));
 
     // --- HUNTER MODEL (Static Loading) ---
-    Model hunterModel(FileSystem::getPath("resources/objects/hunter/Ch43_nonPBR.dae"));
+    Model hunterModel(FileSystem::getPath("resources/objects/Mutant/Mutant.dae"));
 
     // --- TEXTURES ---
     unsigned int floorTexture = loadTexture(FileSystem::getPath("resources/textures/brickwall.jpg").c_str());
