@@ -41,7 +41,7 @@ This project would not be possible without the following resources:
 * [stb_image](https://github.com/nothings/stb) - Image loading library
 
 ### 3D Assets
-* **Airgun Model:** "Haenel Model III-56" by [Dennis Haupt (3DHaupt.com)](https://sketchfab.com/3dhaupt) is licensed under Creative Commons Attribution.
+* **Airgun Model:** "Haenel Model III-56" by [Dennis Haupt]((https://free3d.com/user/3dhaupt)) is licensed under Creative Commons Attribution.
 * **Hunter Model:** [Mixamo / Adobe] (Characters and Animations)
 * **Environment Textures:** Standard textures derived from LearnOpenGL resources.
 
