@@ -1,7 +1,7 @@
 # Shoot-Or-Die
 
 **Shoot-Or-Die** is a fast-paced first-person shooter where the player navigates a 6-layer maze gauntlet. Your goal is to sprint to the finish line while shooting barrels to breach obstacles, all while being chased by a relentless monster.
-
+https://sirawat.itch.io/shoot-or-die-opengl-cpe-2024
 ![Screenshot_1](https://github.com/user-attachments/assets/a5449557-d1df-4140-8510-9f062f71cc39)
 
 ## 🎮 Controls
